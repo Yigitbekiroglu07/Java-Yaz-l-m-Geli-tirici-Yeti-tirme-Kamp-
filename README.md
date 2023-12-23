@@ -1,2 +1,2 @@
-# Java-Yaz-l-m-Geli-tirici-Yeti-tirme-Kamp-
+# Java-Yazilim-Gelistirici-Yetistirme-Kampi
 Engin Demiroğ - Java Kampı
